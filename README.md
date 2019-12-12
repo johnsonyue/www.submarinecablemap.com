@@ -1,3 +1,11 @@
+EDIT
+===================
+
+- Added scripts for easier query:
+  - `stats.sh`
+  - `import.sql`
+  - `stats.sql`
+
 
 Submarine Cable Map
 ===================
